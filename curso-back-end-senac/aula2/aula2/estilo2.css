@@ -1,0 +1,27 @@
+#curriculo{
+    text-align: center;
+    background-color: rgb(192, 144, 237);
+    border-radius: 10px;
+}
+
+#info{
+    text-align: center;
+    background-color: rgb(192, 144, 237);
+    border-radius: 10px;
+}
+
+#body{
+    background-color: blueviolet;
+}
+#imgcurriculo{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    display: block;
+    
+    
+}
+
+
+
+
