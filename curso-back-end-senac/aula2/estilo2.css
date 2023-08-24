@@ -14,12 +14,27 @@
     background-color: blueviolet;
 }
 #imgcurriculo{
-    width: 50%;
-    height: 50%;
+    border-radius: 50%;
     margin: auto;
     display: block;
     
     
+}
+
+#button1{
+    background-color: greenyellow;
+    color:black;
+}
+
+#button2{
+    background-color: rgb(53, 255, 255);
+    color:black;
+    margin: 5px; 
+}
+
+#button3{
+    background-color: rgb(255, 217, 47);
+    color:black;
 }
 
 
