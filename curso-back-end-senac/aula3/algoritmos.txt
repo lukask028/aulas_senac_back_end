@@ -1,0 +1,36 @@
+Sequência lógica 
+1-Crie uma sequência lógica para tomar banho:
+
+	1- tire a roupa
+	2- ligue o chuveiro
+	3- pegue o sabonete
+	4- se molhe
+	5- se ensaboe 
+	6- se enxague
+	7- desligue o chuveiro
+	8- se seque
+	9- vista uma roupa
+
+2-Descreva com detalhes a sequência lógica para lavar um carro
+	
+	1- Feche o carro
+	2- Ligue a mangueira
+	3- Molhe o carro
+	4- Lave o carro 
+	5- Enxague o carro
+	6- Espere secar 
+
+3-Faça um algoritmo para trocar uma lâmpada
+
+	1- pegue uma lâmpada nova
+	2- pegue uma escada/cadeira
+	3- posicione a escada/cadeira
+	4- suba na escada/cadeira
+	5- tire a lâmpada antiga
+	6- desça da escada/cadeira
+	7- guarde a lâmpada antiga
+	8- pegue a lâmpada nova
+	9- suba na escada/cadeira
+	10- coloque a lâmpada nova
+	11- desça da escada/cadeira
+	12- guarde a escada/cadeira

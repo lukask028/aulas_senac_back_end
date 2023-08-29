@@ -1,0 +1,41 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+// importação da principal biblioteca 
+
+
+// criação do arquivo olamundo
+
+class program
+{
+    static void Main(string[] args)
+ // Função que retorna algo
+    {
+     // Declaração de variável
+    //  Console.WriteLine("Ola Mundo!!");
+    //  Console.WriteLine("Meu primeiro codigo em c#");
+    double lado, area, altura,area_triangulo, base1;
+    
+    // Solicitando o usuário o lado do quadrado
+    Console.WriteLine("Digite o tamanho do lado do quadrado:");
+    // Lendo o input do usuário (lado do quadrado)
+    lado = Convert.ToDouble(Console.ReadLine());
+    // Area calcula o tamanho do quadrado
+    area = lado * lado;
+    Console.WriteLine("O tamanho da area do quadrado:" + area);
+    
+    // Solicita o tamanho da altura do triangulo
+    Console.WriteLine("Digite o tamanho da altura do triangulo:");
+    altura = Convert.ToDouble(Console.ReadLine());
+    
+    // Solicita o tamanho da base do triangulo
+    Console.WriteLine("Digite o tamanho da base do triangulo:");
+    base1 = Convert.ToDouble(Console.ReadLine());
+    
+    // Area calcula o tamanho do triangulo
+    area_triangulo = ((base1 * altura)/2);
+    Console.WriteLine("O tamanho da area do triangulo:" + area_triangulo);
+    Console.ReadKey();
+ }
+}
