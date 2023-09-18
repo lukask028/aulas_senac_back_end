@@ -1,0 +1,30 @@
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\bin\Debug\net7.0\fibonacci.exe
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\bin\Debug\net7.0\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.csproj.AssemblyReference.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\Nova pasta\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\bin\Debug\net7.0\fibonacci.exe
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\bin\Debug\net7.0\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.csproj.AssemblyReference.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll
