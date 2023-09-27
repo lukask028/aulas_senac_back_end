@@ -1,0 +1,15 @@
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\bin\Debug\net6.0\array.exe
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\bin\Debug\net6.0\array.deps.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\bin\Debug\net6.0\array.runtimeconfig.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\bin\Debug\net6.0\array.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\bin\Debug\net6.0\array.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\refint\array.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\arrayadicionanomenumero\array\obj\Debug\net6.0\ref\array.dll
