@@ -1,0 +1,14 @@
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\bin\Debug\net6.0\exercicios.exe
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\bin\Debug\net6.0\exercicios.deps.json
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\bin\Debug\net6.0\exercicios.runtimeconfig.json
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\bin\Debug\net6.0\exercicios.dll
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\bin\Debug\net6.0\exercicios.pdb
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfo.cs
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.dll
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\refint\exercicios.dll
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.pdb
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\exercicios.genruntimeconfig.cache
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\exercicios\exercicios\obj\Debug\net6.0\ref\exercicios.dll
