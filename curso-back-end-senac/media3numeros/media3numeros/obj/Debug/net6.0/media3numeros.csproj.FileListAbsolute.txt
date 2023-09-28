@@ -1,0 +1,14 @@
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.AssemblyInfoInputs.cache
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.AssemblyInfo.cs
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.csproj.CoreCompileInputs.cache
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\bin\Debug\net6.0\media3numeros.exe
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\bin\Debug\net6.0\media3numeros.deps.json
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\bin\Debug\net6.0\media3numeros.runtimeconfig.json
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\bin\Debug\net6.0\media3numeros.dll
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\bin\Debug\net6.0\media3numeros.pdb
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.dll
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\refint\media3numeros.dll
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.pdb
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\media3numeros.genruntimeconfig.cache
+C:\Users\51128962023.1\source\repos\media3numeros\media3numeros\obj\Debug\net6.0\ref\media3numeros.dll

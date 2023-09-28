@@ -1,0 +1,14 @@
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.AssemblyInfoInputs.cache
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.AssemblyInfo.cs
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.csproj.CoreCompileInputs.cache
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\bin\Debug\net6.0\Arrayexibecalculonome.exe
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\bin\Debug\net6.0\Arrayexibecalculonome.deps.json
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\bin\Debug\net6.0\Arrayexibecalculonome.runtimeconfig.json
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\bin\Debug\net6.0\Arrayexibecalculonome.dll
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\bin\Debug\net6.0\Arrayexibecalculonome.pdb
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.dll
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\refint\Arrayexibecalculonome.dll
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.pdb
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\Arrayexibecalculonome.genruntimeconfig.cache
+C:\Users\51128962023.1\source\repos\Arrayexibecalculonome\Arrayexibecalculonome\obj\Debug\net6.0\ref\Arrayexibecalculonome.dll
