@@ -16,8 +16,8 @@ internal class Program
 
         // valores iniciais para os calculos:
         int a, b, resultado, i;
-        string nome;
-        char operacao;
+        string nome, operacao;
+        
 
         // declaracao do array
         string[] array_nome_calculo = { };
