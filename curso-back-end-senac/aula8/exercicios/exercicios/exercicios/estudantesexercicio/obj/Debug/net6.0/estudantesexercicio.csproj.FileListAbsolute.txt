@@ -1,0 +1,15 @@
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\bin\Debug\net6.0\estudantesexercicio.exe
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\bin\Debug\net6.0\estudantesexercicio.deps.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\bin\Debug\net6.0\estudantesexercicio.runtimeconfig.json
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\bin\Debug\net6.0\estudantesexercicio.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\bin\Debug\net6.0\estudantesexercicio.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.csproj.AssemblyReference.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.AssemblyInfoInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.AssemblyInfo.cs
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.csproj.CoreCompileInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\refint\estudantesexercicio.dll
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.pdb
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\estudantesexercicio.genruntimeconfig.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\estudante\estudantesexercicio\obj\Debug\net6.0\ref\estudantesexercicio.dll
