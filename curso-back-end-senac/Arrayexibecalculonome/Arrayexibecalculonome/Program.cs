@@ -49,7 +49,7 @@ internal class Program
 
             switch (operacao)
             {
-                case (char)+ "+":
+                case "+":
                     resultado = (a + b);
                     Console.WriteLine("Resultado:", resultado);
                     break;
