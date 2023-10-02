@@ -1,0 +1,5 @@
+D:\Programacao\Programacao\Cursos\Sescbackend.net\ExBanco\ExBanco\obj\Debug\net6.0\ExBanco.csproj.AssemblyReference.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\ExBanco\ExBanco\obj\Debug\net6.0\ExBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Programacao\Cursos\Sescbackend.net\ExBanco\ExBanco\obj\Debug\net6.0\ExBanco.AssemblyInfoInputs.cache
+D:\Programacao\Programacao\Cursos\Sescbackend.net\ExBanco\ExBanco\obj\Debug\net6.0\ExBanco.AssemblyInfo.cs
+D:\Programacao\Programacao\Cursos\Sescbackend.net\ExBanco\ExBanco\obj\Debug\net6.0\ExBanco.csproj.CoreCompileInputs.cache

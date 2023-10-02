@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRFMEW3tBXf1y7V9FfY/X9sEQt0g3naUXLybjHVkYm1B1i6Ay8RUtQDg3j5b+IeHogX/eaiTQfZBBP38barVPA==",
+  "success": true,
+  "projectFilePath": "D:\\Programacao\\Programacao\\Cursos\\Sescbackend.net\\ExBanco\\ExBanco\\ExBanco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
