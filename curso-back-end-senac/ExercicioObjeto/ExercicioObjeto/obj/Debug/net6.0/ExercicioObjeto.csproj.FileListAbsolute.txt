@@ -1,0 +1,14 @@
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\bin\Debug\net6.0\ExercicioObjeto.exe
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\bin\Debug\net6.0\ExercicioObjeto.deps.json
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\bin\Debug\net6.0\ExercicioObjeto.runtimeconfig.json
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\bin\Debug\net6.0\ExercicioObjeto.dll
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\bin\Debug\net6.0\ExercicioObjeto.pdb
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.AssemblyInfoInputs.cache
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.AssemblyInfo.cs
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.csproj.CoreCompileInputs.cache
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.dll
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\refint\ExercicioObjeto.dll
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.pdb
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ExercicioObjeto.genruntimeconfig.cache
+C:\Users\51128962023.1\Documents\curso-back-end-senac\aula8\exercicios\ExercicioObjeto\ExercicioObjeto\obj\Debug\net6.0\ref\ExercicioObjeto.dll
